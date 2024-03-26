@@ -21,8 +21,8 @@ maths_start = datetime.time(11, 35, 0) #['1135', '1220']
 maths_end = datetime.time(12, 20, 0)
 
 
-email = '1607@renbsr.onmicrosoft.com'
-password = 'yash@123'
+email = 'YOUR-EMAIL'
+password = 'YOUR-PASSWORD'
 
 driver = webdriver.Chrome('C:\\webdrivers\\chromedriver.exe')
 driver.get("https://teams.microsoft.com")
